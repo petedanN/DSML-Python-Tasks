@@ -1,1 +1,1 @@
-Python Tasks
+This repository contains a collection of Python tasks. Each script demonstrates various Python concepts and problem-solving techniques, covering topics like fundamentals, loops, conditionals, functions, file handling, object-oriented programming, and more.
